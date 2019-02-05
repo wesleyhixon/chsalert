@@ -1,3 +1,3 @@
 Steps:
-1. Create outline (basic look of things)
+1. Create website outline (basic look of things)
 2. 
